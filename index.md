@@ -12,15 +12,15 @@ This lesson references the Jupyter Notebook,
 but can be taught using a regular Python interpreter as well.
 Please note that this lesson uses Python 3 rather than Python 2.
 
-> ## Under Design
->
-> **This lesson is currently in its early design stage;
-> please check [the design notes]({{ page.root }}/design/)
-> to see what we have so far.
-> Contributions are very welcome:
-> we would be particularly grateful for exercises
-> and for commentary on the ones already there.**
-{: .callout}
+<!-- > ## Under Design -->
+<!-- > -->
+<!-- > **This lesson is currently in its early design stage; -->
+<!-- > please check [the design notes]({{ page.root }}/design/) -->
+<!-- > to see what we have so far. -->
+<!-- > Contributions are very welcome: -->
+<!-- > we would be particularly grateful for exercises -->
+<!-- > and for commentary on the ones already there.** -->
+<!-- {: .callout} -->
 
 > ## Prerequisites
 >
