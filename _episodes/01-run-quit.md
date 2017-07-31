@@ -10,7 +10,7 @@ objectives:
 - "Create and run Python cells in a notebook."
 keypoints:
 - "Python programs are plain text files."
-- "Use the Jupyter Notebook for editing and running Python."
+- "The Jupyter Notebook is a convenient for editing and running Python."
 - "The Notebook has Command and Edit modes."
 - "Use the keyboard and mouse to select and edit cells."
 - "The Notebook will turn Markdown into pretty-printed documentation."
@@ -294,7 +294,7 @@ Or use [named links][data_carpentry].
 > 
 > > ## Solution
 > >
-> > Python returns the output of the last calculation.
+> > The iPython notebook returns the output of the last calculation.
 > > ~~~
 > > 3
 > > ~~~
