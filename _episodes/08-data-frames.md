@@ -253,7 +253,7 @@ max      13450.401510    16361.876470    18965.055510
 > {: .python}
 > > ## Solution
 > > ~~~
-> > The second named index is included in the slice; the second numerical index is not
+> > The named index to the right of the ':' is included in the slice; the numerical index to the right of the ':' is not
 > > ~~~
 > {: .solution}
 {: .challenge}
