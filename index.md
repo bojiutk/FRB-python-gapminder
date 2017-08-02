@@ -14,7 +14,7 @@ Please note that this lesson uses Python 3 rather than Python 2.
 
 About the instructor:
 Hi, I'm Prateek Mehta. I am a Chemical Engineering PhD Candidate at the University of Notre Dame. I use Python everyday for my research (which involves computer simulations to design materials for energy conversion and storage). If you have questions about the material, or about anything in general, feel free to reach out at pmehta1@nd.edu or on twitter at 
-[https://twitter.com/prtk_m]({{ page.root }}/design/ "@prtk_m").
+[https://twitter.com/prtk_m]("@prtk_m").
 
 
 <!-- > ## Under Design -->
