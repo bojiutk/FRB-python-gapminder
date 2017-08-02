@@ -238,7 +238,6 @@ max      13450.401510    16361.876470    18965.055510
 > > ~~~
 > >{: .python}
 > {: .solution}
-
 {: .challenge}
 
 > ## Extent of Slicing
