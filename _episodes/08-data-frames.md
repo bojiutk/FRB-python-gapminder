@@ -232,6 +232,13 @@ max      13450.401510    16361.876470    18965.055510
 > {: .python}
 >
 > Write an expression to find the Per Capita GDP of Serbia in 2007.
+> > ## Solution
+> > ~~~
+> > data.loc["Serbia","gdpPercap_2007"]
+> > ~~~
+> >{: .python}
+> {: .solution}
+
 {: .challenge}
 
 > ## Extent of Slicing
