@@ -280,7 +280,7 @@ Or use [named links][data_carpentry].
 > {: .solution}
 {: .challenge}
 
-> ## More Math
+> ## Some Math
 >
 > What is displayed when a Python cell in a notebook
 > that contains several calculations is executed?
@@ -294,7 +294,7 @@ Or use [named links][data_carpentry].
 > 
 > > ## Solution
 > >
-> > The iPython notebook returns the output of the last calculation.
+> > The iPython notebook displays the output of the last calculation.
 > > ~~~
 > > 3
 > > ~~~
@@ -302,35 +302,35 @@ Or use [named links][data_carpentry].
 > {: .solution}
 {: .challenge}
 
-> ## Change an Existing Cell from Code to Markdown
->
-> What happens if you write some Python in a code cell
-> and then you switch it to a Markdown cell?
-> For example,
-> put the following in a code cell:
->
-> ~~~
-> x = 6 * 7 + 12
-> print(x)
-> ~~~
-> {: .python}
->
-> And then run it with shift+return to be sure that it works as a code cell.
-> Now go back to the cell and use escape+M to switch the cell to Markdown
-> and "run" it with shift+return.
-> What happened and how might this be useful?
-> 
-> > ## Solution
-> >
-> > The Python code gets treated like markdown text.
-> > The lines appear as if they are part of one contiguous paragraph.
-> > This could be useful to temporarly turn on and off cells in notebooks that get used for multiple purposes. 
-> > ~~~
-> > x = 6 * 7 + 12 print(x)
-> > ~~~
-> > {: .python}
-> {: .solution}
-{: .challenge}
+<!-- > ## Change an Existing Cell from Code to Markdown -->
+<!-- > -->
+<!-- > What happens if you write some Python in a code cell -->
+<!-- > and then you switch it to a Markdown cell? -->
+<!-- > For example, -->
+<!-- > put the following in a code cell: -->
+<!-- > -->
+<!-- > ~~~ -->
+<!-- > x = 6 * 7 + 12 -->
+<!-- > print(x) -->
+<!-- > ~~~ -->
+<!-- > {: .python} -->
+<!-- > -->
+<!-- > And then run it with shift+return to be sure that it works as a code cell. -->
+<!-- > Now go back to the cell and use escape+M to switch the cell to Markdown -->
+<!-- > and "run" it with shift+return. -->
+<!-- > What happened and how might this be useful? -->
+<!-- >  -->
+<!-- > > ## Solution -->
+<!-- > > -->
+<!-- > > The Python code gets treated like markdown text. -->
+<!-- > > The lines appear as if they are part of one contiguous paragraph. -->
+<!-- > > This could be useful to temporarly turn on and off cells in notebooks that get used for multiple purposes.  -->
+<!-- > > ~~~ -->
+<!-- > > x = 6 * 7 + 12 print(x) -->
+<!-- > > ~~~ -->
+<!-- > > {: .python} -->
+<!-- > {: .solution} -->
+<!-- {: .challenge} -->
 
 > ## Equations
 >
