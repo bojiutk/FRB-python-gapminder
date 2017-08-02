@@ -205,24 +205,24 @@ cos(pi) is -1.0
 {: .challenge}
 
 
-> ## Jigsaw Puzzle (Parson's Problem) Programming Example
-> 
-> Rearrange the following statements so that a random
-> DNA base is printed.  Not all statements may be needed.  Feel free to use/add 
-> intermediate variables. 
->
-> ~~~
-> bases="ACTTGCTTGAC"
-> import math
-> import random
-> len(bases)
-> len(bases)+1
-> math.floor(s1)
-> math.ceil(s1)
-> print("random base ",bases[])
-> random.random()*l
-> ~~~
-{: .challenge}
+<!-- > ## Jigsaw Puzzle (Parson's Problem) Programming Example -->
+<!-- >  -->
+<!-- > Rearrange the following statements so that a random -->
+<!-- > DNA base is printed.  Not all statements may be needed.  Feel free to use/add  -->
+<!-- > intermediate variables.  -->
+<!-- > -->
+<!-- > ~~~ -->
+<!-- > bases="ACTTGCTTGAC" -->
+<!-- > import math -->
+<!-- > import random -->
+<!-- > len(bases) -->
+<!-- > len(bases)+1 -->
+<!-- > math.floor(s1) -->
+<!-- > math.ceil(s1) -->
+<!-- > print("random base ",bases[]) -->
+<!-- > random.random()*l -->
+<!-- > ~~~ -->
+<!-- {: .challenge} -->
 
 > ## When Is Help Available?
 >
