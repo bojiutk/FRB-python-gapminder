@@ -287,10 +287,10 @@ max      13450.401510    16361.876470    18965.055510
 >     GDP per capita for that country in 1952.
 {: .challenge}
 
-> ## Interpretation
->
-> Poland's borders have been stable since 1945,
-> but changed several times in the years before then.
-> How would you handle this if you were creating a table of GDP per capita for Poland
-> for the entire Twentieth Century?
-{: .challenge}
+<!-- > ## Interpretation -->
+<!-- > -->
+<!-- > Poland's borders have been stable since 1945, -->
+<!-- > but changed several times in the years before then. -->
+<!-- > How would you handle this if you were creating a table of GDP per capita for Poland -->
+<!-- > for the entire Twentieth Century? -->
+<!-- {: .challenge} -->
