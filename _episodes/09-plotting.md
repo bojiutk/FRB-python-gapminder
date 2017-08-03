@@ -94,37 +94,7 @@ plt.plot(years, gdp_australia, 'b-')
 ~~~
 {: .python}
 
-## Can plot many sets of data together.
-
-~~~
-# Accumulator pattern to collect years (as character strings).
-years = []
-for col in data.columns:
-    year = col[-4:]
-    years.append(year)
-
-# Select two countries' worth of data.
-gdp_australia = data.ix['Australia']
-gdp_nz = data.ix['New Zealand']
-
-# Plot with differently-colored markers.
-plt.plot(years, gdp_australia, 'b-', label='Australia')
-plt.plot(years, gdp_nz, 'g-', label='New Zealand')
-
-# Create legend.
-plt.legend(loc='upper left')
-plt.xlabel('Year')
-plt.ylabel('GDP per capita ($)')
-~~~
-{: .python}
-
-*   Plot a scatter plot correlating the GDP of Australia and New Zealand
-*   Use either `plt.scatter` or `DataFrame.plot.scatter`
-
-~~~
-plt.scatter(gdp_australia, gdp_nz)
-~~~
-{: .python}
+## Scatter plot example
 
 ~~~
 data.T.plot.scatter(x = 'Australia', y = 'New Zealand')
