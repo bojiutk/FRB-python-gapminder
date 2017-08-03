@@ -177,10 +177,6 @@ print(total)
     *   Assign that to `total`, replacing the current value.
 *   We have to add `number + 1` because `range` produces 0..9, not 1..10.
 
-> ## Classifying Errors
->
-> Is an indentation error a syntax error or a runtime error?
-{: .challenge}
 
 > ## Tracing Execution
 >
