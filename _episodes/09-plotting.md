@@ -118,32 +118,7 @@ data.T.plot.scatter(x = 'Australia', y = 'New Zealand')
 
 > ## Correlations
 >
-> Modify the example in the notes to create a scatter plot showing
-> the relationship between the minimum and maximum GDP per capita
-> among the countries in Asia for each year in the data set.
-> What relationship do you see (if any)?
->
-> ~~~
-> data_asia = pandas.read_csv('gapminder_gdp_asia.csv')
-> data_asia.describe().T.plot(kind='scatter', x='min', y='max')
-> ~~~
-> {: .python}
->
-> You might note that the variability in the maximum is much higher than
-> that of the minimum.  Take a look at the maximum and the max indexes:
->
-> ~~~
-> data_asia = pandas.read_csv('gapminder_gdp_asia.csv')
-> data_asia.max().plot()
-> print(data_asia.idxmax())
-> print(data_asia.idxmin())
-> ~~~
-> {: .python}
-{: .challenge}
-
-> ## More Correlations
->
-> This short programs creates a plot showing
+> This short program creates a plot showing
 > the correlation between GDP and life expectancy for 2007,
 > normalizing marker size by population:
 >
