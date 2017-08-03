@@ -96,7 +96,7 @@ primes has become: [2, 3, 5, 7, 9]
 *   `extend` is similar to `append`, but it allows you to combine two lists.  For example:
 
 ~~~
-{: .python}
+
 teen_primes = [11, 13, 17, 19]
 middle_aged_primes = [37, 41, 43, 47]
 print('primes is currently:', primes)
